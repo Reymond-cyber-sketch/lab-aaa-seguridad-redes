@@ -2,7 +2,7 @@
 
 # Laboratorio de seguridad de redes: AAA con MikroTik, Active Directory y NPS
 
-**Autor:** Ken Luis Mateo López · **Matrícula:** 2024-0963 · **Fecha del laboratorio:** 30 de octubre de 2026.
+**Autor:** Reymond Daniel Guerrero Cruz · **Matrícula:** 2024-0963 · **Fecha del laboratorio:** 30 de octubre de 2026.
 
 ## Propósito del laboratorio
 
