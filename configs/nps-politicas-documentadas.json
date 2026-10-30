@@ -1,0 +1,54 @@
+{
+  "naturaleza": "Especificación documental; no es export nativo de NPS",
+  "dominio": "seguridad.test",
+  "servidor": "WIN-E4RSOHRPSJM",
+  "ip": "10.24.96.138",
+  "clientes": [
+    {
+      "nombre": "R1-AAA",
+      "ip": "10.24.96.1"
+    },
+    {
+      "nombre": "SW1-AAA",
+      "ip": "10.24.96.2"
+    }
+  ],
+  "clave_radius": "OMITIDA",
+  "puertos_udp": {
+    "autenticacion": 1812,
+    "accounting": 1813
+  },
+  "politicas": [
+    {
+      "orden_previsto": 1,
+      "nombre": "AAA-NIVEL-0",
+      "grupo_ad": "SEGURIDAD\\NIVEL-0",
+      "permiso": "Grant access",
+      "vendor": 14988,
+      "vendor_type": 3,
+      "valor_string": "nivel0"
+    },
+    {
+      "orden_previsto": 2,
+      "nombre": "AAA-NIVEL-5",
+      "grupo_ad": "SEGURIDAD\\NIVEL-5",
+      "permiso": "Grant access",
+      "vendor": 14988,
+      "vendor_type": 3,
+      "valor_string": "nivel5"
+    },
+    {
+      "orden_previsto": 3,
+      "nombre": "AAA-NIVEL-10",
+      "grupo_ad": "SEGURIDAD\\NIVEL-10",
+      "permiso": "Grant access",
+      "vendor": 14988,
+      "vendor_type": 3,
+      "valor_string": "nivel10"
+    }
+  ],
+  "metodo_observado": "MS-CHAPv2 en eventos aportados de usuario5",
+  "metodos_adicionales_finales": "No verificados; revisar constraints y override de la política de solicitud",
+  "excepcion_nas": "require-message-auth=no en ambos exports",
+  "version_windows_inicial": "20348.587; actualización final no acreditada"
+}

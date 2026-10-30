@@ -1,0 +1,14 @@
+Transcripción de la salida de consola compartida por el estudiante.
+No es una captura generada ni una nueva ejecución.
+
+[usuario5@seguridad.test@R1-AAA] > /user active print
+Flags: R - RADIUS
+Columns: WHEN, NAME, VIA
+0 R 2026-10-30 15:50:23 usuario5@seguridad.test console
+
+[usuario5@seguridad.test@R1-AAA] > /ip address print
+0 10.24.96.1/24 10.24.96.0 ether2 main
+1 D 192.168.42.246/24 192.168.42.0 ether1 main
+
+[usuario5@seguridad.test@R1-AAA] > /system identity set name=R1-AAA
+not enough permissions (9)

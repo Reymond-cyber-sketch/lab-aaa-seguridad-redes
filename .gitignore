@@ -1,0 +1,10 @@
+*.backup
+*.pfx
+*.p12
+*.key
+*.etl
+*.pcap
+*.pcapng
+.env
+.env.*
+__pycache__/

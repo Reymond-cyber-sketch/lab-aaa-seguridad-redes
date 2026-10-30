@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="648pt" viewBox="0 0 1008 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T15:47:52.851373</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1008 648 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #f5f8fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 74.9952 237.59892 
+L 358.4448 237.59892 
+Q 372.8088 237.59892 372.8088 228.31632 
+L 372.8088 131.77728 
+Q 372.8088 122.49468 358.4448 122.49468 
+L 74.9952 122.49468 
+Q 60.6312 122.49468 60.6312 131.77728 
+L 60.6312 228.31632 
+Q 60.6312 237.59892 74.9952 237.59892 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 544.2192 237.59892 
+L 865.9728 237.59892 
+Q 880.3368 237.59892 880.3368 228.31632 
+L 880.3368 131.77728 
+Q 880.3368 122.49468 865.9728 122.49468 
+L 544.2192 122.49468 
+Q 529.8552 122.49468 529.8552 131.77728 
+L 529.8552 228.31632 
+Q 529.8552 237.59892 544.2192 237.59892 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 544.2192 491.32332 
+L 865.9728 491.32332 
+Q 880.3368 491.32332 880.3368 482.04072 
+L 880.3368 360.74808 
+Q 880.3368 351.46548 865.9728 351.46548 
+L 544.2192 351.46548 
+Q 529.8552 351.46548 529.8552 360.74808 
+L 529.8552 482.04072 
+Q 529.8552 491.32332 544.2192 491.32332 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #ffffff; stroke: #18836f; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 70.2072 491.32332 
+L 363.2328 491.32332 
+Q 377.5968 491.32332 377.5968 482.04072 
+L 377.5968 360.74808 
+Q 377.5968 351.46548 363.2328 351.46548 
+L 70.2072 351.46548 
+Q 55.8432 351.46548 55.8432 360.74808 
+L 55.8432 482.04072 
+Q 55.8432 491.32332 70.2072 491.32332 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 376.720559 180.0468 
+Q 451.331164 180.0468 523.929308 180.0468 
+" clip-path="url(#p2c4f53ecee)" style="fill: none; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 517.929308 177.0468 
+L 523.929308 180.0468 
+L 517.929308 183.0468 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #65778b; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 705.096 239.59591 
+Q 705.096 293.910807 705.096 346.213242 
+" clip-path="url(#p2c4f53ecee)" style="fill: none; stroke: #226ab4; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 708.096 340.213242 
+L 705.096 346.213242 
+L 702.096 340.213242 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #226ab4; stroke: #226ab4; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 525.942419 421.3944 
+Q 453.725964 421.3944 383.521971 421.3944 
+" clip-path="url(#p2c4f53ecee)" style="fill: none; stroke: #18836f; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 389.521971 424.3944 
+L 383.521971 421.3944 
+L 389.521971 418.3944 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #18836f; stroke: #18836f; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 216.72 348.23081 
+Q 216.72 293.915913 216.72 241.613478 
+" clip-path="url(#p2c4f53ecee)" style="fill: none; stroke: #226ab4; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 213.72 247.613478 
+L 216.72 241.613478 
+L 219.72 247.613478 
+z
+" clip-path="url(#p2c4f53ecee)" style="fill: #226ab4; stroke: #226ab4; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #132b46" x="53.928" y="51.416119" transform="rotate(-0 53.928 51.416119)">Autenticación y autorización</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65778b" x="53.928" y="76.861913" transform="rotate(-0 53.928 76.861913)">NPS valida la cuenta; RouterOS aplica los permisos del grupo devuelto</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="216.72" y="154.919812" transform="rotate(-0 216.72 154.919812)">Consola de GNS3</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(136.400117 186.448389)">usuario0 / usuario5 / usuario10</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(166.478531 201.112692)">Acceso local al NAS</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="705.096" y="154.919812" transform="rotate(-0 705.096 154.919812)">NAS: R1 o SW1</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(643.704781 186.448389)">Cliente RADIUS de login</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(645.235297 201.112692)">Origen: 10.24.96.1 o .2</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #18836f" x="705.096" y="389.038086" transform="rotate(-0 705.096 389.038086)">NPS + Active Directory</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(670.695609 422.857133)">10.24.96.138</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(614.184016 437.521436)">Grupo NIVEL-0 / NIVEL-5 / NIVEL-10</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(613.973187 452.844939)">Política AAA-NIVEL correspondiente</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="216.72" y="389.088868" transform="rotate(-0 216.72 389.088868)">Autorización en RouterOS</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(178.062008 423.186733)">nivel0: consola</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(152.493062 437.851036)">nivel5: lectura y pruebas</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(147.356742 452.515339)">nivel10: lectura y escritura</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_10">
+     <path d="M 388.435078 144.428891 
+L 514.228922 144.428891 
+L 514.228922 129.027109 
+L 388.435078 129.027109 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #65778b" x="451.332" y="139.404594" transform="rotate(-0 451.332 139.404594)">Credenciales de dominio</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_11">
+     <path d="M 477.170297 305.966402 
+L 626.589703 305.966402 
+L 626.589703 276.909598 
+L 477.170297 276.909598 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #226ab4" transform="translate(503.802102 287.287082)">Solicitud: UDP 1812</text>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #226ab4" transform="translate(480.177297 300.942105)">Sesión/accounting: UDP 1813</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_12">
+     <path d="M 417.1745 367.559402 
+L 495.0655 367.559402 
+L 495.0655 339.084598 
+L 417.1745 339.084598 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #18836f" transform="translate(421.344742 349.462082)">Access-Accept</text>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #18836f" transform="translate(420.1815 362.535105)">Mikrotik-Group</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_13">
+     <path d="M 266.881945 299.138891 
+L 377.230055 299.138891 
+L 377.230055 283.737109 
+L 266.881945 283.737109 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="322.056" y="294.114594" transform="rotate(-0 322.056 294.114594)">Permisos de la sesión</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #132b46" x="58.716" y="551.3508" transform="rotate(-0 58.716 551.3508)">Roles de dominio: sin permiso SSH. Gestión SSH demostrada con cuentas locales.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65778b" x="58.716" y="588.4812" transform="rotate(-0 58.716 588.4812)">Excepción de esta práctica: require-message-auth=no. CHR no aporta AUX independiente.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2c4f53ecee">
+   <rect x="25.2" y="12.96" width="957.6" height="618.84"/>
+  </clipPath>
+ </defs>
+</svg>

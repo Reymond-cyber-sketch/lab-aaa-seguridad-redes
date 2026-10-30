@@ -1,0 +1,6 @@
+flowchart TD
+    NAT["NAT1: salida del laboratorio"] -->|"R1 e0 = ether1; WAN DHCP"| R1["R1-AAA: 10.24.96.1/24 en ether2"]
+    R1 -->|"R1 e1/ether2 a SW1 e0/ether1"| SW["SW1-AAA: 10.24.96.2/24 en BR-AAA"]
+    SW -->|"SW1 e1/ether2 a servidor e0"| DC["Windows Server: 10.24.96.138/24; AD y NPS"]
+    SW -.->|"SW1 e2/ether3 a eth0"| P["USER-PRIV: nodo auxiliar detenido"]
+    M["MGMT-NEW: Cloud sin enlace"]

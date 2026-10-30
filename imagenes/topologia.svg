@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="648pt" viewBox="0 0 1008 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T15:47:52.526038</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1008 648 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #f5f8fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 70.2072 200.46852 
+L 305.7768 200.46852 
+Q 320.1408 200.46852 320.1408 191.18592 
+L 320.1408 107.02368 
+Q 320.1408 97.74108 305.7768 97.74108 
+L 70.2072 97.74108 
+Q 55.8432 97.74108 55.8432 107.02368 
+L 55.8432 191.18592 
+Q 55.8432 200.46852 70.2072 200.46852 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 381.4272 200.46852 
+L 588.2688 200.46852 
+Q 602.6328 200.46852 602.6328 191.18592 
+L 602.6328 107.02368 
+Q 602.6328 97.74108 588.2688 97.74108 
+L 381.4272 97.74108 
+Q 367.0632 97.74108 367.0632 107.02368 
+L 367.0632 191.18592 
+Q 367.0632 200.46852 381.4272 200.46852 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #65778b; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 70.2072 407.77992 
+L 305.7768 407.77992 
+Q 320.1408 407.77992 320.1408 398.49732 
+L 320.1408 295.76988 
+Q 320.1408 286.48728 305.7768 286.48728 
+L 70.2072 286.48728 
+Q 55.8432 286.48728 55.8432 295.76988 
+L 55.8432 398.49732 
+Q 55.8432 407.77992 70.2072 407.77992 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 405.3672 407.77992 
+L 640.9368 407.77992 
+Q 655.3008 407.77992 655.3008 398.49732 
+L 655.3008 295.76988 
+Q 655.3008 286.48728 640.9368 286.48728 
+L 405.3672 286.48728 
+Q 391.0032 286.48728 391.0032 295.76988 
+L 391.0032 398.49732 
+Q 391.0032 407.77992 405.3672 407.77992 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke: #226ab4; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 639.9792 212.84532 
+L 942.5808 212.84532 
+Q 956.9448 212.84532 956.9448 203.56272 
+L 956.9448 94.64688 
+Q 956.9448 85.36428 942.5808 85.36428 
+L 639.9792 85.36428 
+Q 625.6152 85.36428 625.6152 94.64688 
+L 625.6152 203.56272 
+Q 625.6152 212.84532 639.9792 212.84532 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke: #18836f; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 683.0712 550.11312 
+L 937.7928 550.11312 
+Q 952.1568 550.11312 952.1568 540.83052 
+L 952.1568 462.85668 
+Q 952.1568 453.57408 937.7928 453.57408 
+L 683.0712 453.57408 
+Q 668.7072 453.57408 668.7072 462.85668 
+L 668.7072 540.83052 
+Q 668.7072 550.11312 683.0712 550.11312 
+z
+" clip-path="url(#p8000d85737)" style="fill: #ffffff; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #a44949; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 187.992 202.466209 
+Q 187.992 243.47802 187.992 282.47737 
+" clip-path="url(#p8000d85737)" style="fill: none; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 190.992 276.47737 
+L 187.992 282.47737 
+L 184.992 276.47737 
+z
+" clip-path="url(#p8000d85737)" style="fill: #65778b; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 321.18648 347.1336 
+Q 355.095571 347.1336 386.992201 347.1336 
+" clip-path="url(#p8000d85737)" style="fill: none; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 380.992201 344.1336 
+L 386.992201 347.1336 
+L 380.992201 350.1336 
+z
+" clip-path="url(#p8000d85737)" style="fill: #65778b; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 568.064778 286.282457 
+Q 647.640358 250.284978 725.382359 215.116952 
+" clip-path="url(#p8000d85737)" style="fill: none; stroke: #18836f; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 718.67921 214.856566 
+L 725.382359 215.116952 
+L 721.152161 220.323239 
+z
+" clip-path="url(#p8000d85737)" style="fill: #18836f; stroke: #18836f; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 601.666988 406.51971 
+Q 673.972836 429.129536 744.357938 451.138751 
+" clip-path="url(#p8000d85737)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 739.526718 446.484793 
+L 744.357938 451.138751 
+L 737.73604 452.211352 
+z
+" clip-path="url(#p8000d85737)" style="fill: #65778b; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #65778b; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #132b46" x="53.928" y="51.416119" transform="rotate(-0 53.928 51.416119)">Topología del laboratorio AAA</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65778b" x="53.928" y="76.909163" transform="rotate(-0 53.928 76.909163)">GNS3 + VMware  |  RouterOS 7.23.7  |  seguridad.test</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="187.992" y="127.567084" transform="rotate(-0 187.992 127.567084)">NAT1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(132.987586 154.144941)">Salida del laboratorio</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(149.45632 168.809244)">WAN por DHCP</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #65778b" x="484.848" y="127.567084" transform="rotate(-0 484.848 127.567084)">MGMT-NEW</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(442.465914 154.144941)">Cloud sin enlace</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(429.00993 168.809244)">Fuera del acceso AAA</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="187.992" y="320.211976" transform="rotate(-0 187.992 320.211976)">R1-AAA</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(138.123906 354.215913)">LAN: 10.24.96.1/24</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(114.585188 368.880216)">ether2 · enrutamiento y NAT</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #226ab4" x="523.152" y="320.211976" transform="rotate(-0 523.152 320.211976)">SW1-AAA</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(457.81057 354.215913)">10.24.96.2/24 en BR-AAA</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(442.353328 368.880216)">Bridge: ether1, ether2 y ether3</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #18836f" x="791.28" y="120.388539" transform="rotate(-0 791.28 120.388539)">Servidor AD + NPS</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(735.024297 149.535685)">Windows Server 2022</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(714.683406 164.199988)">10.24.96.138/24 · DNS propio</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(743.265906 178.864291)">AD: seguridad.test</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #a44949" x="810.432" y="482.10052" transform="rotate(-0 810.432 482.10052)">USER-PRIV</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(752.750391 506.203017)">ether3 de SW1 ↔ eth0</text>
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; fill: #132b46" transform="translate(751.959383 520.86732)">Nodo auxiliar detenido</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_12">
+     <path d="M 234.755969 257.405882 
+L 304.020031 257.405882 
+L 304.020031 228.931078 
+L 234.755969 228.931078 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #65778b" transform="translate(237.762969 239.308562)">ether1 de R1</text>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #65778b" transform="translate(242.678898 252.381585)">WAN DHCP</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_13">
+     <path d="M 313.371695 311.515691 
+L 397.772305 311.515691 
+L 397.772305 296.113909 
+L 313.371695 296.113909 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #65778b" x="355.572" y="306.491394" transform="rotate(-0 355.572 306.491394)">ether2 ↔ ether1</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_14">
+     <path d="M 653.002398 274.733402 
+L 805.069602 274.733402 
+L 805.069602 246.258598 
+L 653.002398 246.258598 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #18836f" transform="translate(656.009398 256.636082)">ether2 de SW1 ↔ NIC servidor</text>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; fill: #18836f" transform="translate(674.77132 269.709105)">Ethernet0 2 · ifIndex 4</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_15">
+     <path d="M 638.185813 453.848891 
+L 676.246188 453.848891 
+L 676.246188 438.447109 
+L 638.185813 438.447109 
+z
+" style="fill: #f5f8fc"/>
+    </g>
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #65778b" x="657.216" y="448.824594" transform="rotate(-0 657.216 448.824594)">ether3</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #132b46" x="58.716" y="557.5392" transform="rotate(-0 58.716 557.5392)">Gateway LAN: 10.24.96.1   ·   Autenticación: UDP 1812   ·   Accounting: UDP 1813</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65778b" x="58.716" y="591.5754" transform="rotate(-0 58.716 591.5754)">Diagrama basado en el cableado recibido y los exports. USER-PRIV no participó en las pruebas AAA.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8000d85737">
+   <rect x="25.2" y="12.96" width="957.6" height="618.84"/>
+  </clipPath>
+ </defs>
+</svg>

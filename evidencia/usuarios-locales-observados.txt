@@ -1,0 +1,13 @@
+Registro resumido de /user print proplist=name,group,disabled compartido en la sesión.
+Los usuarios locales no figuran como comandos de creación en los exports recibidos.
+Este documento no contiene contraseñas ni prueba que una clave concreta esté vigente.
+
+R1-AAA:
+admin        full           disabled=no
+admin-local  gestion-local  disabled=no
+SSH demostrado con admin; el intento con admin-local no autenticó con la clave probada.
+
+SW1-AAA:
+admin        full           disabled=no
+admin-local  gestion-local  disabled=no
+SSH demostrado con admin-local.
