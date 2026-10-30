@@ -4,6 +4,8 @@
 
 **Autor:** Reymond Daniel Guerrero Cruz · **Matrícula:** 2024-0963 · **Fecha del laboratorio:** 30 de octubre de 2026.
 
+Link del video https://youtu.be/aXRg5oEV46k
+
 ## Propósito del laboratorio
 
 Centralizar la autenticación de un router y un switch mediante RADIUS y Active Directory, y aplicar permisos diferentes según el grupo del usuario. La práctica demuestra acceso por consola para los roles 0, 5 y 10, administración SSH con cuentas locales y consulta de registros de NPS y RouterOS.
