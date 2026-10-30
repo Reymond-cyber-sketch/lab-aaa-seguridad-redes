@@ -12,7 +12,6 @@ Este repositorio reúne toda la práctica: documentación, capturas originales, 
 
 ## Topología y direccionamiento
 
-![Diagrama de la topología](imagenes/topologia.png)
 
 | Equipo | Función | Dirección / interfaz |
 |---|---|---|
